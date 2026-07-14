@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I'm a BSIT graduate from University of Education, Lahore. I hold certifications from IBM, Microsoft, Cisco, and Deloitte — but the projects on my GitHub tell the real story.<br>I started in front-end with React, TypeScript, building interfaces that looked good and worked fast.<br>Then I got curious about what happens on the other side of the API call.<br><br>That curiosity turned into a final-year project called KidTok (React Native, Node.js, Firebase). Then an Automated Email Marketing System in Python. Then a RAG-powered career chatbot called GuideAI — FastAPI backend, LangChain, ChromaDB, Groq. Now I'm at FlyRank AI as a Backend AI Engineer Intern, working on real production systems with LLMs and APIs.<br>I just kept building things that required me to learn more.<br><br>What I actually know how to do:<br>→ Build and ship full-stack web apps (React, TypeScript, Node.js)<br>→ Design and deploy RAG pipelines (LangChain, ChromaDB, FastAPI)<br>→ Integrate LLMs into backend workflows (Groq, prompt engineering)<br>→ Add real security to APIs (rate limiting, CORS, Pydantic validation)<br><br>If you're building something at the intersection of AI and real software — let's talk.
 
-<!--
-**aqsarasheed-dev/aqsarasheed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AqsaRasheed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqsarasheed254@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aqsarasheed-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aqsarasheed-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aqsarasheed-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=aqsarasheed-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
