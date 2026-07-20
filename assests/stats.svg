@@ -1,0 +1,354 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#1A0A2E"/>
+</linearGradient>
+
+<linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#FF6F61"/>
+<stop offset="25%" stop-color="#FFD700"/>
+<stop offset="50%" stop-color="#00BFFF"/>
+<stop offset="75%" stop-color="#00FF7F"/>
+<stop offset="100%" stop-color="#8A2BE2"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="5"/>
+</filter>
+
+<style>
+
+.title{
+fill:white;
+font-size:30px;
+font-family:Arial;
+font-weight:bold;
+}
+
+.label{
+fill:#A8B2D1;
+font-size:15px;
+font-family:Arial;
+}
+
+.value{
+fill:white;
+font-size:34px;
+font-weight:bold;
+font-family:'Courier New';
+}
+
+.small{
+fill:#00FF7F;
+font-size:13px;
+font-family:Arial;
+}
+
+</style>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+width="900"
+height="320"
+rx="20"
+fill="url(#bg)"
+stroke="url(#border)"
+stroke-width="2"/>
+
+<!-- Glow -->
+
+<circle
+cx="130"
+cy="70"
+r="70"
+fill="#8A2BE2"
+opacity=".08"
+filter="url(#glow)">
+
+<animate
+attributeName="r"
+values="70;90;70"
+dur="6s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+cx="760"
+cy="240"
+r="90"
+fill="#00BFFF"
+opacity=".07"
+filter="url(#glow)">
+
+<animate
+attributeName="r"
+values="90;120;90"
+dur="8s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text
+x="450"
+y="45"
+text-anchor="middle"
+class="title">
+
+⚡ GitHub Analytics Dashboard
+
+</text>
+
+<!-- Card 1 -->
+
+<g transform="translate(35,75)">
+
+<rect
+width="180"
+height="95"
+rx="18"
+fill="#111827"
+stroke="#FF6F61"/>
+
+<text
+x="20"
+y="28"
+class="label">
+
+⭐ Total Stars
+
+</text>
+
+<text
+x="20"
+y="68"
+class="value">
+
+0
+
+<animate
+attributeName="textLength"
+from="0"
+to="40"
+dur="2s"/>
+
+</text>
+
+<text
+x="20"
+y="86"
+class="small">
+
+Growing every project
+
+</text>
+
+</g>
+
+<!-- Card 2 -->
+
+<g transform="translate(250,75)">
+
+<rect
+width="180"
+height="95"
+rx="18"
+fill="#111827"
+stroke="#FFD700"/>
+
+<text
+x="20"
+y="28"
+class="label">
+
+📦 Repositories
+
+</text>
+
+<text
+x="20"
+y="68"
+class="value">
+
+00
+
+</text>
+
+<text
+x="20"
+y="86"
+class="small">
+
+Public Projects
+
+</text>
+
+</g>
+
+<!-- Card 3 -->
+
+<g transform="translate(465,75)">
+
+<rect
+width="180"
+height="95"
+rx="18"
+fill="#111827"
+stroke="#00BFFF"/>
+
+<text
+x="20"
+y="28"
+class="label">
+
+🔥 Contributions
+
+</text>
+
+<text
+x="20"
+y="68"
+class="value">
+
+000
+
+</text>
+
+<text
+x="20"
+y="86"
+class="small">
+
+This Year
+
+</text>
+
+</g>
+
+<!-- Card 4 -->
+
+<g transform="translate(680,75)">
+
+<rect
+width="180"
+height="95"
+rx="18"
+fill="#111827"
+stroke="#00FF7F"/>
+
+<text
+x="20"
+y="28"
+class="label">
+
+👥 Followers
+
+</text>
+
+<text
+x="20"
+y="68"
+class="value">
+
+00
+
+</text>
+
+<text
+x="20"
+y="86"
+class="small">
+
+Community
+
+</text>
+
+</g>
+
+<!-- Bottom -->
+
+<g transform="translate(60,210)">
+
+<rect
+width="780"
+height="70"
+rx="16"
+fill="#111827"
+stroke="#8A2BE2"/>
+
+<text
+x="20"
+y="28"
+fill="#8A2BE2"
+font-size="15"
+font-family="Arial">
+
+STATUS
+
+</text>
+
+<text
+x="20"
+y="55"
+fill="#ffffff"
+font-size="18"
+font-family="Courier New">
+
+Backend AI Intern • Software Developer • Building AI-powered Applications
+
+</text>
+
+<!-- Pulsing Dot -->
+
+<circle
+cx="735"
+cy="35"
+r="6"
+fill="#00FF7F">
+
+<animate
+attributeName="opacity"
+values="1;.2;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text
+x="748"
+y="40"
+fill="#00FF7F"
+font-size="14"
+font-family="Arial">
+
+ONLINE
+
+</text>
+
+</g>
+
+<!-- Moving Scan Line -->
+
+<rect
+x="0"
+y="0"
+width="900"
+height="2"
+fill="#00BFFF"
+opacity=".45">
+
+<animate
+attributeName="y"
+values="0;320;0"
+dur="7s"
+repeatCount="indefinite"/>
+
+</rect>
+
+</svg>

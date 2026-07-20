@@ -1,23 +1,172 @@
-# 💫 About Me:
-Hey, I’m Aqsa Rasheed 👋
+<div align="center">
 
-Backend AI Engineer Intern @ FlyRank AI  ·  Full Stack Developer  ·  BSIT Graduate
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-dark.svg" width="100%" alt="Aqsa Rasheed Banner"/>
+</picture>
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aqsa-rasheed-it) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqsarasheed254@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aqsarasheed-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&title_color=ff006e&icon_color=ff006e&text_color=ffffff&bg_color=0d0d0d)<br/>
-![](https://streak-stats.demolab.com/?user=aqsarasheed-dev&theme=radical&hide_border=true&background=0d0d0d&ring=ff006e&fire=ff006e&currStreakLabel=ff006e&sideLabels=ffffff&dates=888888)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aqsarasheed-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=ff006e&text_color=ffffff&bg_color=0d0d0d)
+<table>
+<tr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<td width="35%" align="center">
+
+<img src="./assets/lanyard.svg" width="320"/>
+
+</td>
+
+<td width="65%">
+
+# 👋 Hi, I'm Aqsa Rasheed
+
+### Software Developer • Backend AI Intern • AI Enthusiast
+
+I'm passionate about building intelligent software solutions through backend development, Artificial Intelligence, and modern web technologies.
+
+I enjoy solving real-world problems, learning new technologies, and continuously improving my skills through hands-on projects.
+
+### 🚀 Current Focus
+
+- 🤖 Backend AI Intern
+- 🧠 Learning LLMs & RAG
+- ⚡ FastAPI Development
+- 🌐 Full Stack Applications
+- ☁️ Cloud Computing
+- 💡 AI Engineering
+
+</td>
+
+</tr>
+</table>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aqsarasheed-dev&icon=10&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤖 GuideAI | AI-powered CV Analyzer using FastAPI & Groq Llama 3 |
+| 📧 Email Automation | Personalized bulk email marketing system |
+| 🔐 3CipherVault | Browser-based encryption tool |
+| 💳 LoanIQ | Loan Eligibility Calculator |
+
+---
+
+<div align="center">
+
+# 📊 GitHub Statistics
+
+<img src="./assets/stats.svg" height="185"/>
+
+<img src="./assets/langs.svg" height="185"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsarasheed-dev&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FF6F61&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/trophies.svg" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+- IBM — Mastering RAG
+- IBM — Large Language Models
+- IBM — AI Fundamentals
+- IBM — Generative AI
+- Microsoft — Azure ML Studio
+- Cisco — Data Science Essentials
+- Deloitte — Technology Job Simulation
+- Quantium — Software Engineering Simulation
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+<a href="mailto:aqsarasheed254@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aqsarasheed-it">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/aqsarasheed-dev">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aqsarasheed-dev&style=for-the-badge&color=8A2BE2"/>
+
+<br><br>
+
+> ⭐ **"Every project is an opportunity to learn, every challenge a chance to build something meaningful."**
+
+</div>

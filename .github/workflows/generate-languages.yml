@@ -1,0 +1,34 @@
+name: Generate Languages
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+
+    - cron: "30 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+
+  generate:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - run: |
+
+          mkdir -p assets
+
+          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=aqsarasheed-dev&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" \
+          -o assets/langs.svg
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+
+        with:
+          commit_message: Update language stats

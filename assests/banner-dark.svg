@@ -1,0 +1,134 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#1A0A2E;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1"/>
+    </linearGradient>
+    <!-- Text gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6F61"/>
+      <stop offset="35%" style="stop-color:#FFD700"/>
+      <stop offset="70%" style="stop-color:#00BFFF"/>
+      <stop offset="100%" style="stop-color:#8A2BE2"/>
+    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Clip path -->
+    <clipPath id="bannerClip">
+      <rect width="900" height="280" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <!-- Background -->
+    <rect width="900" height="280" fill="url(#bgGrad)"/>
+
+    <!-- Dot grid pattern -->
+    <pattern id="dots" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#8A2BE2" opacity="0.25"/>
+    </pattern>
+    <rect width="900" height="280" fill="url(#dots)"/>
+
+    <!-- Animated orb 1 -->
+    <circle cx="100" cy="80" r="60" fill="#FF6F61" opacity="0.07" filter="url(#softGlow)">
+      <animate attributeName="cy" values="80;100;80" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="60;75;60" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Animated orb 2 -->
+    <circle cx="800" cy="180" r="80" fill="#8A2BE2" opacity="0.08" filter="url(#softGlow)">
+      <animate attributeName="cy" values="180;155;180" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="80;95;80" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Animated orb 3 -->
+    <circle cx="450" cy="140" r="100" fill="#00BFFF" opacity="0.05" filter="url(#softGlow)">
+      <animate attributeName="r" values="100;120;100" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Rainbow top stripe -->
+    <rect x="0" y="0" width="128" height="5" fill="#FF6F61"/>
+    <rect x="128" y="0" width="129" height="5" fill="#FFD700"/>
+    <rect x="257" y="0" width="129" height="5" fill="#00FF7F"/>
+    <rect x="386" y="0" width="129" height="5" fill="#00BFFF"/>
+    <rect x="515" y="0" width="129" height="5" fill="#FF4081"/>
+    <rect x="644" y="0" width="128" height="5" fill="#8A2BE2"/>
+    <rect x="772" y="0" width="128" height="5" fill="#FF6F61"/>
+
+    <!-- Status pill -->
+    <rect x="32" y="22" width="160" height="26" rx="13" fill="none" stroke="#00FF7F" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="50" cy="35" r="5" fill="#00FF7F">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="62" y="40" font-family="'Courier New',monospace" font-size="11" fill="#00FF7F" font-weight="600">Open to Work</text>
+
+    <!-- Main name -->
+    <text x="450" y="115" text-anchor="middle" font-family="'Arial Black','Arial',sans-serif"
+      font-size="68" font-weight="900" fill="url(#nameGrad)" filter="url(#glow)"
+      letter-spacing="4">
+      AQSA RASHEED
+    </text>
+
+    <!-- Animated underline -->
+    <line x1="120" y1="128" x2="780" y2="128" stroke="url(#nameGrad)" stroke-width="3" opacity="0.6">
+      <animate attributeName="x1" values="450;120;450" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="450;780;450" dur="3s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Role line -->
+    <text x="450" y="165" text-anchor="middle" font-family="'Courier New',monospace"
+      font-size="18" fill="#B0E4CC" letter-spacing="2" opacity="0.9">
+      BS IT Graduate  ·  Full-Stack Learner  ·  Lahore 🇵🇰
+    </text>
+
+    <!-- Typing animation bar -->
+    <rect x="200" y="185" width="500" height="44" rx="8" fill="#FFFFFF" opacity="0.04"/>
+    <rect x="200" y="185" width="500" height="44" rx="8" fill="none" stroke="#FF6F61" stroke-width="1.5" opacity="0.5"/>
+    <text x="230" y="213" font-family="'Courier New',monospace" font-size="14" fill="#FF6F61" opacity="0.7">$ </text>
+    <text x="254" y="213" font-family="'Courier New',monospace" font-size="14" fill="#FFD700">
+      <tspan>Building real projects every day</tspan>
+    </text>
+    <rect x="620" y="200" width="3" height="18" fill="#FFD700">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Bottom tech tags -->
+    <rect x="218" y="244" width="74" height="22" rx="4" fill="#FF6F61" opacity="0.2"/>
+    <rect x="218" y="244" width="74" height="22" rx="4" fill="none" stroke="#FF6F61" stroke-width="1.2"/>
+    <text x="255" y="259" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#FF6F61">React.js</text>
+
+    <rect x="302" y="244" width="74" height="22" rx="4" fill="#00BFFF" opacity="0.2"/>
+    <rect x="302" y="244" width="74" height="22" rx="4" fill="none" stroke="#00BFFF" stroke-width="1.2"/>
+    <text x="339" y="259" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#00BFFF">Node.js</text>
+
+    <rect x="386" y="244" width="74" height="22" rx="4" fill="#FFD700" opacity="0.2"/>
+    <rect x="386" y="244" width="74" height="22" rx="4" fill="none" stroke="#FFD700" stroke-width="1.2"/>
+    <text x="423" y="259" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#FFD700">Supabase</text>
+
+    <rect x="470" y="244" width="74" height="22" rx="4" fill="#00FF7F" opacity="0.2"/>
+    <rect x="470" y="244" width="74" height="22" rx="4" fill="none" stroke="#00FF7F" stroke-width="1.2"/>
+    <text x="507" y="259" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#00FF7F">Firebase</text>
+
+    <rect x="554" y="244" width="90" height="22" rx="4" fill="#8A2BE2" opacity="0.2"/>
+    <rect x="554" y="244" width="90" height="22" rx="4" fill="none" stroke="#8A2BE2" stroke-width="1.2"/>
+    <text x="599" y="259" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#8A2BE2">JavaScript</text>
+
+    <!-- Bottom stripe -->
+    <rect x="0" y="275" width="128" height="5" fill="#FF6F61"/>
+    <rect x="128" y="275" width="129" height="5" fill="#FFD700"/>
+    <rect x="257" y="275" width="129" height="5" fill="#00FF7F"/>
+    <rect x="386" y="275" width="129" height="5" fill="#00BFFF"/>
+    <rect x="515" y="275" width="129" height="5" fill="#FF4081"/>
+    <rect x="644" y="275" width="128" height="5" fill="#8A2BE2"/>
+    <rect x="772" y="275" width="128" height="5" fill="#FF6F61"/>
+  </g>
+</svg>
