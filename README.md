@@ -94,7 +94,7 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aqsarasheed-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -122,7 +122,7 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aqsarasheed-dev/aqsarasheed-dev/output/github-snake-dark.svg"/>
 
 </div>
 
