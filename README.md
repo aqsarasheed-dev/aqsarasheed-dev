@@ -23,7 +23,7 @@
 
 # 👋 Hi, I'm Aqsa Rasheed
 
-### Software Developer • Backend AI Intern • AI Enthusiast
+### Software Developer • Learning Agentic AI • AI Enthusiast
 
 I'm passionate about building intelligent software solutions through backend development, Artificial Intelligence, and modern web technologies.
 
@@ -31,11 +31,10 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ### 🚀 Current Focus
 
-- 🤖 Backend AI Intern
+- 🤖 PYTHON
 - 🧠 Learning LLMs & RAG
-- ⚡ FastAPI Development
-- 🌐 Full Stack Applications
-- ☁️ Cloud Computing
+- ⚡ AGENTIC AI
+- 🌐 AI POWERED Applications
 - 💡 AI Engineering
 
 </td>
